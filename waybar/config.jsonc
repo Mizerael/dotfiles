@@ -1,3 +1,5 @@
+// I use this conf: https://github.com/Evilucchi/dotfiles
+
 [
   {
     "name": "topbar",
@@ -19,7 +21,7 @@
     ],
     "modules-center": [],
     "modules-right": [
-      "mpris",
+    //  "mpris",
       "battery",
       "backlight",
       "wireplumber",

@@ -1,23 +1,24 @@
 return {
-  "nvim-treesitter/nvim-treesitter",
-  opts = {
-    ensure_installed = {
-      "bash",
-      "json",
-      "lua",
-      "markdown",
-      "markdown_inline",
-      "python",
-      "regex",
-      "tsx",
-      "typescript",
-      "yaml",
-      "go",
-      "rust",
-      "zig",
+    "nvim-treesitter/nvim-treesitter",
+    opts = {
+        ensure_installed = {
+            "bash",
+            "json",
+            "lua",
+            "markdown",
+            "markdown_inline",
+            "python",
+            "regex",
+            "tsx",
+            "c_sharp",
+            "typescript",
+            "yaml",
+            "go",
+            "rust",
+            "zig",
+        },
+        highlight = {
+            enable = true,
+        },
     },
-    highlight = {
-      enable = true,
-    },
-  },
 }

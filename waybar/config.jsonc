@@ -21,7 +21,7 @@
     ],
     "modules-center": [],
     "modules-right": [
-    //  "mpris",
+      "mpris",
       "battery",
       "backlight",
       "wireplumber",

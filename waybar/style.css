@@ -228,5 +228,7 @@ label:focus {
 #mpd,
 #mpris,
 #window {
-    background: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #FA8BFF 90%);
+   /* background: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #FA8BFF 90%);*/
+    background-color: black;
+    color: rgb(0, 238, 255);
 }

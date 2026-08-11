@@ -11,7 +11,6 @@ return {
             "regex",
             "tsx",
             "c_sharp",
-            "typescript",
             "yaml",
             "go",
             "rust",

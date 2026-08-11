@@ -166,11 +166,11 @@ window#waybar.empty {
     color: red;
 }
 
-#battery.charging,
+/*#battery.charging,
 #battery.plugged {
     color: black;
     background: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #FA8BFF 90%);
-}
+}*/
 
 @keyframes blink {
     to {

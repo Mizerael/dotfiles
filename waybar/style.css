@@ -180,20 +180,20 @@ window#waybar.empty {
 }
 
 #battery.warning:not(.charging) {
-  background-color: pink;
-  color: black;
+  background-color: black;
+  color: pink;
 }
 #battery.critical:not(.charging) {
-    background-color: red;
-    color: black;
+    background-color: black;
+    color: red;
 }
 
-#battery.warning:not(.charging) {
+/*#battery.warning:not(.charging) {
     animation: blink 1s linear infinite alternate;
 }
 #battery.critical:not(.charging) {
     animation: blink 0.5s linear infinite alternate;
-}
+}*/
 
 /* Focused Label Background */
 label:focus {

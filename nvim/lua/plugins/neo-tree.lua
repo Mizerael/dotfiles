@@ -1,6 +1,6 @@
 return {
     "nvim-neo-tree/neo-tree.nvim",
-    enabled = false,
+    enabled = true,
     opts = {
         close_if_last_window = true,
         action = "show",
